@@ -1,0 +1,856 @@
+[
+  {
+    "wave": "aftenfalk.mp3",
+    "img": "aftenfalk.jpg",
+    "title": "Aftenfalk",
+    "orden": "rovfugle",
+    "familie": "falke"
+  },
+  {
+    "wave": "agerhoene.mp3",
+    "img": "agerhoene.jpg",
+    "title": "Agerhøne",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "alk.mp3",
+    "img": "alk.jpg",
+    "title": "Alk",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "allike.mp3",
+    "img": "allike.jpg",
+    "title": "Allike",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "blaahals.mp3",
+    "img": "blaahals.jpg",
+    "title": "Blåhals",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "blaamejse.mp3",
+    "img": "blaamejse.jpg",
+    "title": "Blåmejse",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "blaa_kaerhoeg.mp3",
+    "img": "blaa_kaerhoeg.jpg",
+    "title": "Blå Kærhøg",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "blishoene.mp3",
+    "img": "blishoene.jpg",
+    "title": "Blishøne",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "bogfinke.mp3",
+    "img": "bogfinke.jpg",
+    "title": "Bogfinke",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "bomlaerke.mp3",
+    "img": "bomlaerke.jpg",
+    "title": "Bomlærke",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "broget_fluesnapper.mp3",
+    "img": "broget_fluesnapper.jpg",
+    "title": "Broget Fluesnapper",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "bysvale.mp3",
+    "img": "bysvale.jpg",
+    "title": "Bysvale",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "dobbeltbekkasin.mp3",
+    "img": "dobbeltbekkasin.jpg",
+    "title": "Dobbeltbekkasin",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "dompap.mp3",
+    "img": "dompap.jpg",
+    "title": "Dompap",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "drosselroersanger.mp3",
+    "img": "drosselroersanger.jpg",
+    "title": "Drosselrørsanger",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "duehoeg.mp3",
+    "img": "duehoeg.jpg",
+    "title": "Duehøg",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "engsnarre.mp3",
+    "img": "engsnarre.jpg",
+    "title": "Engsnarre",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "fasan.mp3",
+    "img": "fasan.jpg",
+    "title": "Fasan",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "fiskehejre.mp3",
+    "img": "fiskehejre.jpg",
+    "title": "Fiskehejre",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "fiskeoern.mp3",
+    "img": "fiskeoern.jpg",
+    "title": "Fiskeørn",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "flodsanger.mp3",
+    "img": "flodsanger.jpg",
+    "title": "Flodsanger",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "fuglekonge.mp3",
+    "img": "fuglekonge.jpg",
+    "title": "Fuglekonge",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "fyrremejse.mp3",
+    "img": "fyrremejse.jpg",
+    "title": "Fyrremejse",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "gaerdesanger.mp3",
+    "img": "gaerdesanger.jpg",
+    "title": "Gærdesanger",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "gaerdesmutte.mp3",
+    "img": "gaerdesmutte.jpg",
+    "title": "Gærdesmutte",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "goeg.mp3",
+    "img": "goeg.jpg",
+    "title": "Gøg",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "graaand.mp3",
+    "img": "graaand.jpg",
+    "title": "Gråand",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "graagaas.mp3",
+    "img": "graagaas.jpg",
+    "title": "Grågås",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "graakrage.mp3",
+    "img": "graakrage.jpg",
+    "title": "Gråkrage",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "graaspurv.mp3",
+    "img": "graaspurv.jpg",
+    "title": "Gråspurv",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "graa_fluesnapper.mp3",
+    "img": "graa_fluesnapper.jpg",
+    "title": "Grå Fluesnapper",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "graeshoppesanger.mp3",
+    "img": "graeshoppesanger.jpg",
+    "title": "Græshoppesanger",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "gransanger.mp3",
+    "img": "gransanger.jpg",
+    "title": "Gransanger",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "groenbenet_roerhoene.mp3",
+    "img": "groenbenet_roerhoene.jpg",
+    "title": "Grønbenet Rørhøne",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "groenirisk.mp3",
+    "img": "groenirisk.jpg",
+    "title": "Grønirisk",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "groensisken.mp3",
+    "img": "groensisken.jpg",
+    "title": "Grønsisken",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "groenspaette.mp3",
+    "img": "groenspaette.jpg",
+    "title": "Grønspætte",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "gulbug.mp3",
+    "img": "gulbug.jpg",
+    "title": "Gulbug",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "gulirisk.mp3",
+    "img": "gulirisk.jpg",
+    "title": "Gulirisk",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "gulspurv.mp3",
+    "img": "gulspurv.jpg",
+    "title": "Gulspurv",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "gul_vipstjert.mp3",
+    "img": "gul_vipstjert.jpg",
+    "title": "Gul Vipstjert",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "haettemaage.mp3",
+    "img": "haettemaage.jpg",
+    "title": "Hættemåge",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "halemejse.mp3",
+    "img": "halemejse.jpg",
+    "title": "Halemejse",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "havesanger.mp3",
+    "img": "havesanger.jpg",
+    "title": "Havesanger",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "havoern.mp3",
+    "img": "havoern.jpg",
+    "title": "Havørn",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "havterne.mp3",
+    "img": "havterne.jpg",
+    "title": "Havterne",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "hedehoeg.mp3",
+    "img": "hedehoeg.jpg",
+    "title": "Hedehøg",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "hedelaerke.mp3",
+    "img": "hedelaerke.jpg",
+    "title": "Hedelærke",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "husroedstjert.mp3",
+    "img": "husroedstjert.jpg",
+    "title": "Husrødstjert",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "husskade.mp3",
+    "img": "husskade.jpg",
+    "title": "Husskade",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "hvid_stork.mp3",
+    "img": "hvid_stork.jpg",
+    "title": "Hvid Stork",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "hvid_vipstjert.mp3",
+    "img": "hvid_vipstjert.jpg",
+    "title": "Hvid Vipstjert",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "jernspurv.mp3",
+    "img": "jernspurv.jpg",
+    "title": "Jernspurv",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "kaersanger.mp3",
+    "img": "kaersanger.jpg",
+    "title": "Kærsanger",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "karmindompap.mp3",
+    "img": "karmindompap.jpg",
+    "title": "Karmindompap",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "kernebider.mp3",
+    "img": "kernebider.jpg",
+    "title": "Kernebider",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "kirkeugle.mp3",
+    "img": "kirkeugle.jpg",
+    "title": "Kirkeugle",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "knopsvane.mp3",
+    "img": "knopsvane.jpg",
+    "title": "Knopsvane",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "kvaekerfinke.mp3",
+    "img": "kvaekerfinke.jpg",
+    "title": "Kvækerfinke",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "landsvale.mp3",
+    "img": "landsvale.jpg",
+    "title": "Landsvale",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "lille_flagspaette.mp3",
+    "img": "lille_flagspaette.jpg",
+    "title": "Lille Flagspætte",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "lille_fluesnapper.mp3",
+    "img": "lille_fluesnapper.jpg",
+    "title": "Lille Fluesnapper",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "loevsanger.mp3",
+    "img": "loevsanger.jpg",
+    "title": "Løvsanger",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "lundsanger.mp3",
+    "img": "lundsanger.jpg",
+    "title": "Lundsanger",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "misteldrossel.mp3",
+    "img": "misteldrossel.jpg",
+    "title": "Misteldrossel",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "munk.mp3",
+    "img": "munk.jpg",
+    "title": "Munk",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "mursejler.mp3",
+    "img": "mursejler.jpg",
+    "title": "Mursejler",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "musvaage.mp3",
+    "img": "musvaage.jpg",
+    "title": "Musvåge",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "musvit.mp3",
+    "img": "musvit.jpg",
+    "title": "Musvit",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "natravn.mp3",
+    "img": "natravn.jpg",
+    "title": "Natravn",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "nattergal.mp3",
+    "img": "nattergal.jpg",
+    "title": "Nattergal",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "natugle.mp3",
+    "img": "natugle.jpg",
+    "title": "Natugle",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "pirol.mp3",
+    "img": "pirol.jpg",
+    "title": "Pirol",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "pungmejse.mp3",
+    "img": "pungmejse.jpg",
+    "title": "Pungmejse",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "raage.mp3",
+    "img": "raage.jpg",
+    "title": "Råge",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "ravn.mp3",
+    "img": "ravn.jpg",
+    "title": "Ravn",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "ringdue.mp3",
+    "img": "ringdue.jpg",
+    "title": "Ringdue",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "roedben.mp3",
+    "img": "roedben.jpg",
+    "title": "Rødben",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "roedhals.mp3",
+    "img": "roedhals.jpg",
+    "title": "Rødhals",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "roedstjert.mp3",
+    "img": "roedstjert.jpg",
+    "title": "Rødstjert",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "roedtoppet_fuglekonge.mp3",
+    "img": "roedtoppet_fuglekonge.jpg",
+    "title": "Rødtoppet Fuglekonge",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "roed_glente.mp3",
+    "img": "roed_glente.jpg",
+    "title": "Rød Glente",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "roerdrum.mp3",
+    "img": "roerdrum.jpg",
+    "title": "Rørdrum",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "roerhoeg.mp3",
+    "img": "roerhoeg.jpg",
+    "title": "Rørhøg",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "roersanger.mp3",
+    "img": "roersanger.jpg",
+    "title": "Rørsanger",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "roerspurv.mp3",
+    "img": "roerspurv.jpg",
+    "title": "Rørspurv",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "sangdrossel.mp3",
+    "img": "sangdrossel.jpg",
+    "title": "Sangdrossel",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "sanglaerke.mp3",
+    "img": "sanglaerke.jpg",
+    "title": "Sanglærke",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "sangsvane.mp3",
+    "img": "sangsvane.jpg",
+    "title": "Sangsvane",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "savisanger.mp3",
+    "img": "savisanger.jpg",
+    "title": "Savisanger",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "silkehale.mp3",
+    "img": "silkehale.jpg",
+    "title": "Silkehale",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "sivsanger.mp3",
+    "img": "sivsanger.jpg",
+    "title": "Sivsanger",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "sjagger.mp3",
+    "img": "sjagger.jpg",
+    "title": "Sjagger",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "skarv.mp3",
+    "img": "skarv.jpg",
+    "title": "Skarv",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "skovhornugle.mp3",
+    "img": "skovhornugle.jpg",
+    "title": "Skovhornugle",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "skovsanger.mp3",
+    "img": "skovsanger.jpg",
+    "title": "Skovsanger",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "skovskade.mp3",
+    "img": "skovskade.jpg",
+    "title": "Skovskade",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "skovsneppe.mp3",
+    "img": "skovsneppe.jpg",
+    "title": "Skovsneppe",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "skovspurv.mp3",
+    "img": "skovspurv.jpg",
+    "title": "Skovspurv",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "sloerugle.mp3",
+    "img": "sloerugle.jpg",
+    "title": "Slørugle",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "soelvmaage.mp3",
+    "img": "soelvmaage.jpg",
+    "title": "Sølvmåge",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "solsort.mp3",
+    "img": "solsort.jpg",
+    "title": "Solsort",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "sortmejse.mp3",
+    "img": "sortmejse.jpg",
+    "title": "Sortmejse",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "sortspaette.mp3",
+    "img": "sortspaette.jpg",
+    "title": "Sortspætte",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "spaetmejse.mp3",
+    "img": "spaetmejse.jpg",
+    "title": "Spætmejse",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "spurvehoeg.mp3",
+    "img": "spurvehoeg.jpg",
+    "title": "Spurvehøg",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "staer.mp3",
+    "img": "staer.jpg",
+    "title": "Stær",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "stillits.mp3",
+    "img": "stillits.jpg",
+    "title": "Stillits",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "stor_flagspaette.mp3",
+    "img": "stor_flagspaette.jpg",
+    "title": "Stor Flagspætte",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "strandskade.mp3",
+    "img": "strandskade.jpg",
+    "title": "Strandskade",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "sumpmejse.mp3",
+    "img": "sumpmejse.jpg",
+    "title": "Sumpmejse",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "taarnfalk.mp3",
+    "img": "taarnfalk.jpg",
+    "title": "Tårnfalk",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "toppet_lappedykker.mp3",
+    "img": "toppet_lappedykker.jpg",
+    "title": "Toppet Lappedykker",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "tornirisk.mp3",
+    "img": "tornirisk.jpg",
+    "title": "Tornirisk",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "tornsanger.mp3",
+    "img": "tornsanger.jpg",
+    "title": "Tornsanger",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "troldand.mp3",
+    "img": "troldand.jpg",
+    "title": "Troldand",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "turteldue.mp3",
+    "img": "turteldue.jpg",
+    "title": "Turteldue",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "tyrkerdue.mp3",
+    "img": "tyrkerdue.jpg",
+    "title": "Tyrkerdue",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "vagtel.mp3",
+    "img": "vagtel.jpg",
+    "title": "Vagtel",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "vandrefalk.mp3",
+    "img": "vandrefalk.jpg",
+    "title": "Vandrefalk",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "vibe.mp3",
+    "img": "vibe.jpg",
+    "title": "Vibe",
+    "orden": "",
+    "familie": ""
+  },
+  {
+    "wave": "vindrossel.mp3",
+    "img": "vindrossel.jpg",
+    "title": "Vindrossel",
+    "orden": "",
+    "familie": ""
+  }
+]
